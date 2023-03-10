@@ -1,10 +1,10 @@
-# 😍🔥 Flutter Animation Collection 💙 ![GitHub stars](https://img.shields.io/github/stars/martinoyovo/flutter-design-collection?style=social)
+# 😍🔥 Moving car animation 💙
 
-![Bike Animation](https://img.shields.io/badge/platform-Flutter-blue)
+![Moving car animation](https://img.shields.io/badge/platform-Flutter-blue)
 ![Repository size](https://img.shields.io/github/repo-size/martinoyovo/flutter-design-collection)
 ![GitHub follow](https://img.shields.io/github/followers/martinoyovo?style=social)
 
-A collection of Flutter Animations and UI Kits.
+[A part of my collection of Flutter Animations and UI Kits. [Show more](https://github.com/martinoyovo/flutter-design-collection)]
 
 Star⭐ the repo and follow me if you like what you see🤩 ![Twitter Follow](https://img.shields.io/twitter/follow/martinoyovo.svg?style=social)
 
@@ -19,31 +19,15 @@ flutter packages get
 flutter run
 ```
 
-## Screenshots & Gifs
+## Screenshots & Demo
 
-#### Animation that extends a card to full screen on tap -- [YouTube Link](https://youtu.be/960CR8J4_tc) | [Link to code](https://github.com/martinoyovo/flutter-design-collection/blob/main/lib/custom_loader.dart)
-![Custom Loader](screenshots/custom_loader.gif)
+#### Moving car animation -- [Learn how to make it](https://youtu.be/960CR8J4_tc) | [Show more](https://github.com/martinoyovo/flutter-design-collection)
+![Moving car animation](car_driving_animation.gif)
 |              Example             |             Banner           |
 | :----------------------------------: | :----------------------------------: |
-| ![Custom Loader](screenshots/custom_loader.gif) | ![Custom Loader](screenshots/session_002.png) |
+| ![Moving car animation](screenshots/car_driving_animation.gif) | ![Moving car animation](screenshots/session_003.png) |
 
 ---
-
-#### Animation that extends a card to full screen on tap -- [YouTube Link](https://youtu.be/960CR8J4_tc) | [Link to code](https://github.com/martinoyovo/flutter-design-collection/blob/main/lib/bank_card_animation.dart)
-![Bank card animation](screenshots/bank_card_animation.gif)
-|              Example             |             Banner           |
-| :----------------------------------: | :----------------------------------: |
-| ![Bank card animation](screenshots/bank_card_animation.gif) | ![Bank card animation](screenshots/session_001.png) |
-
----
-
-#### Bike Animation -- [Link to code](https://github.com/martinoyovo/flutter-design-collection/blob/main/lib/bike_traveller.dart)
-![Bike Animation](screenshots/bike_animation.gif)
-
----
-
-#### Animated Flutter Logo -- [Link to code](https://github.com/martinoyovo/flutter-design-collection/blob/main/lib/flutterlogo.dart)
-![Animated Flutter Logo](screenshots/flutterlogo.gif)
 
 
 A few resources to get you started if this is your first Flutter project:
