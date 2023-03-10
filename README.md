@@ -1,4 +1,4 @@
-# 😍🔥 Moving car animation 💙
+# 😍🔥 Moving car animation with Flutter 💙
 
 ![Moving car animation](https://img.shields.io/badge/platform-Flutter-blue)
 ![Repository size](https://img.shields.io/github/repo-size/martinoyovo/flutter-design-collection)
