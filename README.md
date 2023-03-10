@@ -13,7 +13,7 @@ Star⭐ the repo and follow me if you like what you see🤩 ![Twitter Follow](ht
 ## Get Started
 Run:
 ```shell
-git clone https://github.com/martinoyovo/flutter-design-collection.git
+git clone https://github.com/martinoyovo/flutter-moving-car-animation.git
 flutter clean
 flutter packages get
 flutter run
@@ -23,12 +23,12 @@ flutter run
 
 #### Moving car animation -- [Learn how to make it](https://youtu.be/960CR8J4_tc) | [Show more](https://github.com/martinoyovo/flutter-design-collection)
 ![Moving car animation](car_driving_animation.gif)
-|              Example             |             Banner           |
-| :----------------------------------: | :----------------------------------: |
-| ![Moving car animation](screenshots/car_driving_animation.gif) | ![Moving car animation](screenshots/session_003.png) |
 
 ---
 
+![Moving car animation](session_003.png)
+
+---
 
 A few resources to get you started if this is your first Flutter project:
 
